@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Inter";
-  src: local("Inter Bold"), local("Inter-Bold"), url("/font/Inter-Bold.woff2") format("woff2"), url("/font/Inter-Bold.woff") format("woff"), url("/font/Inter-Bold.ttf") format("truetype");
+  src: local("Inter Bold"), local("Inter-Bold"), url("/nft/font/Inter-Bold.woff2") format("woff2"), url("/nft/font/Inter-Bold.woff") format("woff"), url("/nft/font/Inter-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "Inter";
-  src: local("Inter Light"), local("Inter-Light"), url("/font/Inter-Light.woff2") format("woff2"), url("/font/Inter-Light.woff") format("woff"), url("/font/Inter-Light.ttf") format("truetype");
+  src: local("Inter Light"), local("Inter-Light"), url("/nft/font/Inter-Light.woff2") format("woff2"), url("/nft/font/Inter-Light.woff") format("woff"), url("/nft/font/Inter-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: "Inter";
-  src: local("Inter Regular"), local("Inter-Regular"), url("/font/Inter-Regular.woff2") format("woff2"), url("/font/Inter-Regular.woff") format("woff"), url("/font/Inter-Regular.ttf") format("truetype");
+  src: local("Inter Regular"), local("Inter-Regular"), url("/nft/font/Inter-Regular.woff2") format("woff2"), url("/nft/font/Inter-Regular.woff") format("woff"), url("/nft/font/Inter-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
@@ -159,7 +159,7 @@ ul {
   height: 808.43px;
   left: 880.84px;
   top: 187.35px;
-  background-image: url(/img/man.png);
+  background-image: url(/nft/img/man.png);
   background-size: cover;
   transform: rotate(-0.11deg);
 }
@@ -265,7 +265,7 @@ ul {
   position: absolute;
   border-radius: 30px;
   left: 239px;
-  background-image: url(/img/modal-gradient.svg);
+  background-image: url(/nft/img/modal-gradient.svg);
   background-repeat: no-repeat;
   width: 430.93px;
   height: 426.23px;
@@ -277,7 +277,7 @@ ul {
 }
 
 .modal__close {
-  background-image: url(/img/close-modal.svg);
+  background-image: url(/nft/img/close-modal.svg);
   position: absolute;
   top: 34px;
   right: 40px;
@@ -493,19 +493,19 @@ ul {
 }
 
 .smile_stars {
-  background-image: url(/img/smile-stars.svg);
+  background-image: url(/nft/img/smile-stars.svg);
 }
 
 .smile_crazy {
-  background-image: url(/img/smile-crazy.svg);
+  background-image: url(/nft/img/smile-crazy.svg);
 }
 
 .smile_dollar {
-  background-image: url(/img/smile-dollar.svg);
+  background-image: url(/nft/img/smile-dollar.svg);
 }
 
 .smile_glasses {
-  background-image: url(/img/smile-glasses.svg);
+  background-image: url(/nft/img/smile-glasses.svg);
 }
 
 .section-main__card__block__text {
@@ -889,7 +889,7 @@ ul {
   }
   .section-main__round_purple-mobile {
     display: unset;
-    background-image: url(/img/elipse-cut.svg);
+    background-image: url(/nft/img/elipse-cut.svg);
     background-repeat: no-repeat;
     position: absolute;
     width: 40px;
